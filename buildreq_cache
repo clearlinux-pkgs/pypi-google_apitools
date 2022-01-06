@@ -1,0 +1,5 @@
+0.5.32
+pypi(fasteners)
+pypi(httplib2)
+pypi(oauth2client)
+pypi(six)
