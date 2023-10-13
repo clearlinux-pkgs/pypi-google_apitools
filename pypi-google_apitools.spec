@@ -4,7 +4,7 @@
 #
 Name     : pypi-google_apitools
 Version  : 0.5.32
-Release  : 74
+Release  : 75
 URL      : https://files.pythonhosted.org/packages/dc/eb/c26c36463a769a3a9f08847b9bf218cb629ca91877a911bbd6dcf37d9e62/google-apitools-0.5.32.tar.gz
 Source0  : https://files.pythonhosted.org/packages/dc/eb/c26c36463a769a3a9f08847b9bf218cb629ca91877a911bbd6dcf37d9e62/google-apitools-0.5.32.tar.gz
 Summary  : client libraries for humans
